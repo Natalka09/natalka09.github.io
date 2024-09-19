@@ -1,7 +1,30 @@
 p
 
 {
-    color:rgb(89, 126, 230);
-    font-size:25px;
+    color:rgb(156, 106, 185);
+    font-size:20px;
+    font-family: monospace;
 } 
-body{background-color: rgb(29, 4, 4);}
+
+body
+
+{
+    background-color: rgb(26, 4, 4);
+}
+
+#head
+
+{
+    font-size:40px;;
+    color:cadetblue;
+    font-family:fantasy;
+
+    
+}
+
+div
+
+{
+    max-width: 900px;
+    margin: auto;
+}
